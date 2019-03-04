@@ -1,0 +1,17 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\bin\Debug\Contact_Book.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\bin\Debug\Contact_Book.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\bin\Debug\Contact_Book.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form2.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form3.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form4.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form5.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form6.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form7.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\obj\Debug\Contact_Book.Form8.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Contact_Book\Contact_Book\bin\Debug\Zen.Barcode.Core.dll
