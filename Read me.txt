@@ -1,0 +1,8 @@
+Create a data base with name contacts and then create a table with name condata 
+creater three rows 
+
+ id             names         contact
+(bigint)    (varcharmax)    (varcharmax)
+
+
+now just update your connection link in all .cs files
