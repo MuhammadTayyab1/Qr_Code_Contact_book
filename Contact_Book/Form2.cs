@@ -19,7 +19,9 @@ namespace Contact_Book
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text=="user" && textBox2.Text=="1234")
+        
+        // Condition for checking login info
+            if(textBox1.Text=="user" && textBox2.Text=="12345")
             {
                 this.Hide();
                 Form3 f3 = new Form3();
@@ -27,6 +29,7 @@ namespace Contact_Book
             }
             else
             {
+                // error on wrong entry
                 label3.Text = "Incorrect username or password";
             }
         }
